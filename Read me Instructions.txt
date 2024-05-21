@@ -1,0 +1,8 @@
+
+Admin credentials
+email: spence_admin@saints-clubs.com
+password: 12345678
+
+student credentials
+email: spence_student@gmail.com
+password: 12345678
